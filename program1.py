@@ -99,3 +99,4 @@ create_table()
 # Generate CSV and load data into the database
 generate_csv()
 load_csv_to_db()
+
